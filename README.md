@@ -4,5 +4,5 @@
     
       git clone https://......../react-game.git
       cd react-game
-      npm install
-      npm start
+        npm install
+        npm start
